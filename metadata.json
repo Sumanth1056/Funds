@@ -1,0 +1,5 @@
+{
+  "name": "Mutual Fund AI Analyzer",
+  "description": "A modern web application to track and analyze mutual funds. It allows users to view fund details, see performance charts, and leverage the Gemini API for intelligent, data-driven insights and analysis.",
+  "requestFramePermissions": []
+}
